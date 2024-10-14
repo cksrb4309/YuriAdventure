@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 23bc4a4148825d3428927dac3d424744
+guid: 31af1be38fd78f64b842cb2ffe0a6543
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3676016990925961750
-    second: c948f1dc-a3e5-408d-8b5e-a54b76fdb0cd_0
+      213: -8183710197978277498
+    second: StageSelectScene_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -55,7 +55,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -72,9 +72,9 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 7
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -152,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: c948f1dc-a3e5-408d-8b5e-a54b76fdb0cd_0
+      name: StageSelectScene_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 720
-        height: 1280
+        width: 128
+        height: 224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61a31741af5d30330800000000000000
-      internalID: 3676016990925961750
+      spriteID: 68953c02fee9d6e80800000000000000
+      internalID: -8183710197978277498
       vertices: []
       indices: 
       edges: []
@@ -177,7 +177,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -187,7 +187,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      c948f1dc-a3e5-408d-8b5e-a54b76fdb0cd_0: 3676016990925961750
+      StageSelectScene_0: -8183710197978277498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
